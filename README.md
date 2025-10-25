@@ -1195,8 +1195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Resources
 - **Documentation**: This README
-- **Issues**: [GitHub Issues](https://github.com/aliabbas/Kidney-Disease-Classification/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/aliabbas/Kidney-Disease-Classification/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ote22/Classification-Deep-Learning-Project/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ote22/Classification-Deep-Learning-Project/discussions)
 
 ### MLflow & DVC Resources
 - **MLflow Documentation**: https://mlflow.org/docs/latest/index.html
