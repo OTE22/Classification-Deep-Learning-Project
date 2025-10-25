@@ -9,7 +9,7 @@
 [![AWS](https://img.shields.io/badge/AWS-Deployed-yellow.svg)](https://aws.amazon.com/)
 
 ---
-
+  
 ## 📋 Table of Contents
 - [Executive Summary](#executive-summary)
 - [Business Value](#business-value)
@@ -343,7 +343,7 @@ Kidney-Disease-Classification/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project.git
+git clone https://github.com/OTE22/Classification-Deep-Learning-Project.git
 cd Kidney-Disease-Classification-Deep-Learning-Project
 ```
 
@@ -1189,9 +1189,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### Project Maintainer
-- **Author**: Krishna Naik (krishnaik06)
-- **Email**: entbappy73@gmail.com
-- **GitHub**: [krishnaik06](https://github.com/krishnaik06)
+- **Author**: ote22
+- **Email**: ote22@GMAIL.COM
+- **GitHub**: [ote22](https://github.com/ote22)
 
 ### Resources
 - **Documentation**: This README
